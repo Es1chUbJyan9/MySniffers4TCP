@@ -1,11 +1,11 @@
 # MySniffers4TCP
 
 ## Features
-  Sniffing TCP Packet and save payload.
+Sniffing TCP Packet and save payload.
 
 ## Requirements
-  python3
-  scapy
+- python3
+- scapy
 
 ## Installation
 Build Program
