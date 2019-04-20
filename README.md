@@ -4,7 +4,8 @@
   Sniffing TCP Packet and save payload.
 
 ## Requirements
-  python 3
+  python3
+  scapy
 
 ## Installation
 Build Program
